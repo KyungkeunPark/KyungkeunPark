@@ -1,0 +1,4 @@
+
+2020.08.15
+- created the ublox_set_config.c for testing and passed execute file to HW
+
